@@ -43,4 +43,4 @@ Issues and pull requests are welcome.
 [License name], see [LICENSE](LICENSE).
 
 ## Extra
-+ Claude made the system fetch fast & wrote this README cuz im lazy :D
++ Claude made the system fetch as fast as possible & wrote this README.
