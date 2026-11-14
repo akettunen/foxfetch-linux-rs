@@ -2,8 +2,6 @@
 
 A fast system information tool for Linux, written in Rust.
 
-![screenshot](docs/screenshot.png)
-
 ## Features
 
 - [Fast, minimal output]
