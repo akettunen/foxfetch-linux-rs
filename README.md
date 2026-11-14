@@ -1,6 +1,6 @@
 # foxfetch-linux-rs
 
-A fast system information tool for Linux, written in Rust.
+A fast system information tool for Linux, written in Rust!
 
 ## Features
 
