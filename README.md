@@ -1,4 +1,5 @@
 # foxfetch-linux-rs
+# Windows: https://github.com/akettunen/foxfetch-rs
 
 A fast system information tool for Linux, written in Rust!
 
